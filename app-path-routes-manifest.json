@@ -1,0 +1,8 @@
+{
+  "/continueSessions/[sessionId]/page": "/continueSessions/[sessionId]",
+  "/continueSessions/page": "/continueSessions",
+  "/gameStats/page": "/gameStats",
+  "/newSession/page": "/newSession",
+  "/playerStats/page": "/playerStats",
+  "/page": "/"
+}

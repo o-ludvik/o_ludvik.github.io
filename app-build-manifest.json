@@ -1,0 +1,47 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack-d0d30a2298268c31.js",
+      "static/chunks/455-e3a12aac2a978f1a.js",
+      "static/chunks/main-app-d7a35faaa7b05df3.js",
+      "static/chunks/app/layout-ae59f9718c2ca0ce.js"
+    ],
+    "/continueSessions/[sessionId]/page": [
+      "static/chunks/webpack-d0d30a2298268c31.js",
+      "static/chunks/455-e3a12aac2a978f1a.js",
+      "static/chunks/main-app-d7a35faaa7b05df3.js",
+      "static/chunks/app/continueSessions/[sessionId]/page-f00dcb9f402023a1.js"
+    ],
+    "/continueSessions/page": [
+      "static/chunks/webpack-d0d30a2298268c31.js",
+      "static/chunks/455-e3a12aac2a978f1a.js",
+      "static/chunks/main-app-d7a35faaa7b05df3.js",
+      "static/chunks/app/continueSessions/page-a3bf1f39e680639a.js"
+    ],
+    "/gameStats/page": [
+      "static/chunks/webpack-d0d30a2298268c31.js",
+      "static/chunks/455-e3a12aac2a978f1a.js",
+      "static/chunks/main-app-d7a35faaa7b05df3.js",
+      "static/chunks/app/gameStats/page-b51e6039a4dfedb7.js"
+    ],
+    "/newSession/page": [
+      "static/chunks/webpack-d0d30a2298268c31.js",
+      "static/chunks/455-e3a12aac2a978f1a.js",
+      "static/chunks/main-app-d7a35faaa7b05df3.js",
+      "static/chunks/app/newSession/page-490807bc934bd9a0.js"
+    ],
+    "/playerStats/page": [
+      "static/chunks/webpack-d0d30a2298268c31.js",
+      "static/chunks/455-e3a12aac2a978f1a.js",
+      "static/chunks/main-app-d7a35faaa7b05df3.js",
+      "static/chunks/app/playerStats/page-aefc7903e1b639db.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-d0d30a2298268c31.js",
+      "static/chunks/455-e3a12aac2a978f1a.js",
+      "static/chunks/main-app-d7a35faaa7b05df3.js",
+      "static/chunks/920-5c54221eb06fdb0a.js",
+      "static/chunks/app/page-2bbf63bf3b80e54c.js"
+    ]
+  }
+}
